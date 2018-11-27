@@ -2,7 +2,7 @@
 UM-L51FHTD7:thirdweek raviakkiraju$ git init
 Initialized empty Git repository in /Users/raviakkiraju/Desktop/code/thirdweek/.git/
 
-git clone <url>
+git clone URL
   
 git add .
 
